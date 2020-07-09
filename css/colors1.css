@@ -75,7 +75,8 @@ footer h2::after,
 }
 
 .tp-caption.tp-shape.tp-shapewrapper.tp-resizeme.rs-parallaxlevel-0 {
-    background: #03e38e !important;
+	background: #03e38e40 !important;
+	/* background: #03e38e !important; */
     /* background: #039ee3 !important; */
 }
 
@@ -115,7 +116,8 @@ a.btn.light_btn:focus {
 }
 
 .modal-backdrop {
-	background-color: rgba(3, 158, 227, .95);
+	background-color: rgba(3, 227, 170, 0.95);
+	/* background-color: rgba(3, 158, 227, .95); */
 }
 
 #navbar_menu ul ul,
